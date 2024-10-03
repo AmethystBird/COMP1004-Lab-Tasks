@@ -25,7 +25,9 @@ Create an activity diagram depicting the workflow of an individual cooking a mea
 Use either notepad, notepad++, Visual Studio Code or Visual Studio.
 #### Git & GitHub
 [Install Git](https://git-scm.com/)
+
 [Create a GitHub Account](https://github.com/)
+
 [Install GitHub Desktop](https://desktop.github.com/download/)
 #### Git Command Line
 If desired, one may use Git through the command line as opposed to through the GUI provided by GitHub desktop. In the long-term, versatility with using Git through the command line is beneficial for more complex situations.
